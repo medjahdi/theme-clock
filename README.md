@@ -10,8 +10,8 @@ Theme Clock is a simple, elegant clock application that allows you to switch bet
 
 ## Screenshots
 
-![Black Mode](link_to_black_mode_screenshot)
-![White Mode](link_to_white_mode_screenshot)
+![Black Mode](https://github.com/medjahdi/theme-clock/blob/main/b.jpg)
+![White Mode](https://github.com/medjahdi/theme-clock/blob/main/w.jpg)
 
 ## Installation
 
