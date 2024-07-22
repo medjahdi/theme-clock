@@ -17,7 +17,7 @@ Theme Clock is a simple, elegant clock application that allows you to switch bet
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/theme-clock.git
+    git clone https://github.com/medjahdi/theme-clock.git
     ```
 2. Navigate to the project directory:
     ```bash
